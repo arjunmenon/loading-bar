@@ -7,6 +7,8 @@ Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](ht
 
 ## Demo
 [View demo](http://www.thepetedesign.com/demos/youtube_loadingbar_demo.html)
+http://www.onextrapixel.com/2013/09/02/loadingbar-js-adding-a-youtube-like-loading-bar-to-your-website/
+
 
 ## Usage
 To add a Youtube-like loading bar to your website, simply include the latest jQuery library found [here](http://jquery.com/download/) together with `jquery.loadingbar.js` and `loadingbar.css` into your document's `<head>` and simply call the function as shown below:
